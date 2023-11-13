@@ -1,17 +1,16 @@
-baseURL = "https://ruleless.cn"
-languageCode = "zh-cn"
-title = "概率论"
-theme = "github-style-hugo"
-googleAnalytics = "UA-123456-789"
+baseURL = '/'
+languageCode = 'zh-cn'
+title = "Randyx's Blog"
+googleAnalytics = ""
 pygmentsCodeFences = true
 pygmentsUseClasses = true
 
 [params]
   author = "概率"
   description = "In solitude, where we are least alone."
-  github = "RandyE42"
+  github = "Randyx233"
   facebook = ""
-  twitter = "RandomEbb42"
+  twitter = "Randyx042"
   linkedin = ""
   instagram = ""
   tumblr = ""
@@ -23,7 +22,7 @@ pygmentsUseClasses = true
   favicon = "/images/github.png"
   location = "China"
   userStatusEmoji = "😀"
-  enableGitalk = true
+  enableGitalk = false
     
   [params.gitalk]
     clientID = "Your client ID" # Your client ID
